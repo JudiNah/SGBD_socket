@@ -1,0 +1,10 @@
+Quelques requette Sql qu'on peut faire
+    //create table test2 :nom,prenom,classe
+    //insert : insert into test1 values :judi,nul,+2610044456
+    //select simple : select tout from test1
+    //union : select tout dans test union test4
+    //inter : select tout dans test4 inter test3
+    //projection :select voici nom,prenom from test3
+    //selection : select tout from test3 where nom egale rakoto
+    //difference : select tout dans test moin test4
+    //produit cartesien : select produit_cartesien test et test4
